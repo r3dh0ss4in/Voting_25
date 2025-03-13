@@ -17,12 +17,6 @@ Foundry consists of:
 $ forge build
 ```
 
-### Test
-
-```shell
-$ forge test
-```
-
 ### Format
 
 ```shell
